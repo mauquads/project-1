@@ -1,3 +1,5 @@
+//trading
+
 def calculate_stocks(marketplace):
     stocks = {}
     for item in marketplace:
